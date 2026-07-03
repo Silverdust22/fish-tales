@@ -1,0 +1,15 @@
+.home {
+  width: 90%;
+  max-width: 50em;
+  margin: 0 auto;
+  color: seashell;
+  padding: 0.5rem 0.5rem;
+}
+
+.home p {
+  font-size: 1.5em;
+}
+
+.home p span {
+  font-size: 1.5em;
+}
